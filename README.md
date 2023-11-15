@@ -37,9 +37,12 @@ It is also based on this project to turn the ESP8266 as an access point: https:/
 - Connect your ESP8266 to the computer via USB (disconnect battery before)
 - Push web code to the esp8266 using this tutorial: https://github.com/esp8266/arduino-esp8266fs-plugin
 - Compile and upload the code to the ESP8266 with Arduino IDE
-- Disconnect USB and connect battery
+- Disconnect USB
+  
+## Connect to the robot
+- Connect battery to turn on the robot
 - Connect with your phone to the wifi created by the ESP8266
-- On your phone: browse to 198.168.4.1 in your browser
+- On your phone: browse to 192.168.4.1 in your browser
 - On your phone: click on the screen and you will see the joystick appearing
 - You should see your car moving when moving the joystick around
 - If the car is moving other way around, modify cabling or software
