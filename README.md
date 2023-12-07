@@ -45,9 +45,12 @@ It is also based on this project to turn the ESP8266 as an access point: https:/
 - On your phone: the password is: joystick
 - Alternatively you can use this QR code to connect directly
 
-![frame](https://github.com/cocodmdr/esp8266_web_joystick/assets/46325857/9c744d5a-00bb-4335-8ea5-2156b82b873b)
+![connectToWifi](https://github.com/cocodmdr/esp8266_web_joystick/assets/46325857/ba9abdf7-3d4f-452d-931e-07c975176005)
 
-- On your phone: browse to 192.168.4.1 in your browser
+- On your phone: browse to 192.168.4.1 in your browser or use QR code
+
+![connectToIP](https://github.com/cocodmdr/esp8266_web_joystick/assets/46325857/1a04a6d3-114b-4f5f-8154-6eb79e52dd4f)
+  
 - On your phone: click on the screen and you will see the joystick appearing
 - You should see your car moving when moving the joystick around
 - If the car is moving other way around, modify cabling or software
