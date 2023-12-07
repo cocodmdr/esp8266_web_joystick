@@ -42,8 +42,12 @@ It is also based on this project to turn the ESP8266 as an access point: https:/
 ## Connect to the robot
 - Connect battery to turn on the robot
 - Connect with your phone to the wifi created by the ESP8266
-- On your phone: browse to 192.168.4.1 in your browser
 - On your phone: the password is: joystick
+- Alternatively you can use this QR code to connect directly
+
+![frame](https://github.com/cocodmdr/esp8266_web_joystick/assets/46325857/9c744d5a-00bb-4335-8ea5-2156b82b873b)
+
+- On your phone: browse to 192.168.4.1 in your browser
 - On your phone: click on the screen and you will see the joystick appearing
 - You should see your car moving when moving the joystick around
 - If the car is moving other way around, modify cabling or software
