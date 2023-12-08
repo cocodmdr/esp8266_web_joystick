@@ -1,7 +1,7 @@
 # esp8266_web_joystick
 Web based joystick hosted on a ESP8266/NodeMCU to control a car.
 
-ESP8266 will create an wifi access point. Once connected the page will be available at this address: 198.168.4.1
+ESP8266 will create an wifi access point. Once connected the page will be available at this address: 192.168.4.1
 
 Click on the screen to see the joystick.
 
